@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ihsan31415 (but please call me Khoirul)
+- 👀 I’m interested in IT, particularly AI Cloud, IoT, cloud computing, and competitive programming in C++.
+- 🌱 I’m currently learning algorithm analysis, database systems, human-computer interaction, and more in my Informatics undergraduate program at Universitas Negeri Semarang.
+- 💞️ I’m looking to collaborate on IoT projects, cloud-based solutions, and innovative ideas for improving CVs and portfolios through IT-related events and challenges.
+- 📫 How to reach me: Drop me a message on GitHub or connect via academic or professional networks.
+- 😄 Pronouns: Be/Cak
